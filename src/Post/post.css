@@ -1,0 +1,11 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+.form-label{
+    float: left;
+}
